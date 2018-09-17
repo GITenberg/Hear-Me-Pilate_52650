@@ -1,0 +1,28 @@
+_repo: Hear-Me-Pilate_52650
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Blythe, LeGette
+    aliases:
+    - Blythe, William LeGette
+    - Blythe, Le Gette
+    birthdate: 1900
+    deathdate: 1993
+    gutenberg_agent_id: '46977'
+    url: http://www.gutenberg.org/2009/agents/46977
+description: ''
+gutenberg_issued: '2016-07-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52650'
+  lccn: '61011599'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Pilate, Pontius, active 1st century -- Fiction'
+- GITenberg
+title: Hear Me, Pilate!
+url: http://www.gutenberg.org/ebooks/52650
